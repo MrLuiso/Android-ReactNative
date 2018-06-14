@@ -27,4 +27,7 @@ run `brew install yarn`
 4. In Android Studio: Run the app.
 
 
+To enable live reloading on emulator: command+M
+
+
 
