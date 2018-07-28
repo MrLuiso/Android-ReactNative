@@ -10,6 +10,7 @@ Created By Following the Docs:
 - yarn
 
 ### To install yarn:
+For Mac:
 run `brew install yarn`
 
 ## Steps to run for the first time:
